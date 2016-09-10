@@ -1,0 +1,33 @@
+Web App
+In Module Two, you will be required to build a functional and complete web app. Your web app can be on any subject or for any purpose. 
+The app must be hosted on Microsoft Azure and draw in other functionality that is available to you on Azure. 
+It must also make use of other features that are standard industry practice. 
+The app must be complete and ready for production when submitted to us. 
+
+Basic Requirements
+These are the basic requirements for your Web App. 
+Your submission MUST have these implemented.
+-Hosted and published on Microsoft Azure
+-HTML5 / CSS for the UI (Responsive). We recommend Bootstrap.
+-TypeScript for the logic, using dynamic API calls.
+-Uses GitHub for Source Control, and Open SourceAdvanced Features
+
+In Addition to the basic requirements, your app must implement at-least two of the below:
+-Makes use of any two JQuery Plug-ins
+-Implements Application Insights
+-Implements Facebook Sharing, Login or Comments
+-Continuous Deploymentvia GitHub
+-Makes use ofSASS
+-Makes use of Gulp or Grunt
+How your app will be assessed?
+The  MSA  Team  will  be  assessing  your  app  on a pass/fail  criterion, your  app  must  implement  all  the basic functionality and implement two of the advanced features to pass this module. 
+
+http://submit.msa.ms
+Enter all the details and submit.
+-Please use the same email address you used to register for the MSA programme.
+Submission Integrity
+All  work  submitted  must  be  your  own. 
+You  are  welcomeand  encouraged to  collaborate  with  students  on technical  challenges  and  improvements, but you should not copy or modify someone else’s work.
+You are welcome to use open source and appropriately licensed code (e.g. Bootstrap) for your submission.
+Other Important Information
+Final Due Date:11:59pm-15thSeptember2016.
