@@ -1,4 +1,4 @@
-Web App
+﻿Web App
 In Module Two, you will be required to build a functional and complete web app. Your web app can be on any subject or for any purpose. 
 The app must be hosted on Microsoft Azure and draw in other functionality that is available to you on Azure. 
 It must also make use of other features that are standard industry practice. 
@@ -31,3 +31,5 @@ You  are  welcomeand  encouraged to  collaborate  with  students  on technical  
 You are welcome to use open source and appropriately licensed code (e.g. Bootstrap) for your submission.
 Other Important Information
 Final Due Date:11:59pm-15thSeptember2016.
+
+Testing File
